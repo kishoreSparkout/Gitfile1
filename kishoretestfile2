@@ -1,4 +1,0 @@
-Testing file
-ps C:\Users\Kisho\OneDrive\Desktop\kishore.git\Gitfile1> git add kishoretestfile2
-PS C:\Users\Kisho\OneDrive\Desktop\kishore.git\Gitfile1> git commit -m "modified kishoretestfile2"
-PS C:\Users\Kisho\OneDrive\Desktop\kishore.git\Gitfile1>  git push origin main
