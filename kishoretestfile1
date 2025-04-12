@@ -1,4 +1,5 @@
 Testing the github process
 ps C:\Users\Kisho\OneDrive\Desktop\kishore.git\Gitfile1> git add kishoretestfile2
+ps C:\Users\Kisho\OneDrive\Desktop\kishore.git\Gitfile1> git commit -m "kishoretestfile2 file added"
 PS C:\Users\Kisho\OneDrive\Desktop\kishore.git\Gitfile1> git commit -m "modified kishoretestfile2"
 PS C:\Users\Kisho\OneDrive\Desktop\kishore.git\Gitfile1>  git push origin main
